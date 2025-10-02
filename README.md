@@ -1,1 +1,9 @@
-# Savings-Goal-Tracker
+# Savings Goal Tracker (Python)
+
+The Savings Goal Tracker is a simple Python project that helps users plan, monitor, and achieve their financial savings goals. It provides a structured way to define a target amount, set a regular contribution, and track progress over time. By simulating monthly deposits and projecting how long it will take to reach a goal, the project offers a clear and practical approach to financial planning for individuals who want to save for specific purposes, such as a vacation, emergency fund, or major purchase.
+
+This project allows users to create savings goals by specifying a name, target amount, and monthly contribution. Each deposit increases the tracked balance, which is stored along with the history of progress. The tool then calculates the remaining amount required and estimates how many months are needed to achieve the goal based on the current savings rate. Users can check whether their goal has been reached and view concise summaries that make financial progress easy to understand.
+
+The Savings Goal Tracker is designed to be lightweight and accessible, implemented entirely in Python without external dependencies. Its simplicity makes it suitable for learners and contributors who want to understand how financial tracking applications work while keeping the logic clear and extendable. The codebase can be easily enhanced to include features such as variable deposits, interest on savings, or multiple simultaneous goals.
+
+Beyond its educational purpose, this project demonstrates how even basic programming concepts can be applied to personal finance management. It encourages users to think about budgeting, disciplined saving, and long-term financial planning. By bridging practical money management with Python coding, the Savings Goal Tracker serves as both a useful tool and a great Hacktoberfest project for contributors interested in finance, software development, or both.
